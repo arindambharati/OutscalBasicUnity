@@ -58,3 +58,32 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+Assets/Scenes.meta
+Assets/Scripts.meta
+Assets/Scenes/FirstScene.unity
+Assets/Scenes/FirstScene.unity.meta
+Assets/Scenes/MasterScene.unity
+Assets/Scenes/MasterScene.unity.meta
+Assets/Scenes/SecondScene.unity
+Assets/Scenes/SecondScene.unity.meta
+Assets/Scenes/ThirdScene.unity
+Assets/Scenes/ThirdScene.unity.meta
+Packages/manifest.json
+ProjectSettings/AudioManager.asset
+ProjectSettings/ClusterInputManager.asset
+ProjectSettings/DynamicsManager.asset
+ProjectSettings/EditorBuildSettings.asset
+ProjectSettings/EditorSettings.asset
+ProjectSettings/GraphicsSettings.asset
+ProjectSettings/InputManager.asset
+ProjectSettings/NavMeshAreas.asset
+ProjectSettings/NetworkManager.asset
+ProjectSettings/Physics2DSettings.asset
+ProjectSettings/PresetManager.asset
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectVersion.txt
+ProjectSettings/QualitySettings.asset
+ProjectSettings/TagManager.asset
+ProjectSettings/TimeManager.asset
+ProjectSettings/UnityConnectSettings.asset
+ProjectSettings/VFXManager.asset
